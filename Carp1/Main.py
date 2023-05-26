@@ -11,9 +11,9 @@ num2= int(input("Ingrese otro número"))
 
 print("La suma de los números es: ",SumaDeNumeros (num1,num2))
 
-#Agrego método de resta
+"""#Agrego método de resta
 
 def RestaDeNumeros (a,b):
     return a - b
 
-print("La resta de los números es: ",RestaDeNumeros (num1,num2))
+print("La resta de los números es: ",RestaDeNumeros (num1,num2))"""
